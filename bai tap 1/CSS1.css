@@ -1,0 +1,15 @@
+.container{
+display: flex;
+justify-content: center;
+background-color: beige;
+align-items: center;
+height:150px;
+}
+.flex-item{
+    background-color: blue;
+    color:white;
+    line-height: 100px;
+    height:100px;
+    width:100px;
+    text-align: center;
+}
